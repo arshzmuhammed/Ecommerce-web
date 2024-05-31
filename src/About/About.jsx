@@ -1,6 +1,10 @@
 import React from 'react'
 import PageHeader from '../components/PageHeader';
 
+import img1 from '../../public/images/about/01.jpg';
+import img2 from '../../public/images/about/02.jpg';
+
+
 
 const subTitle = "About Our Brand"; const title = "Good Qualification Services And Better Expriences"; const desc = "Distinctively provide acces mutfuncto users whereas transparent proceses somes ncentivize eficient functionalities rather than extensible archtectur communicate leveraged services and cross-platform.";
 
@@ -17,10 +21,10 @@ const About = () => {
                 <div className="col">
                     <div className="about-left">
                         <div className="about-thumb">
-                            <img src="../../public/images/about/01.jpg" alt="" />
+                            <img src={img1} alt="" />
                         </div>
                         <div className="abs-thumb">
-                            <img src="../../public/images/about/02.jpg" alt="" />
+                            <img src={img2} alt="" />
                         </div>
                         <div className="about-left-content">
                             <h3>{year}</h3>
