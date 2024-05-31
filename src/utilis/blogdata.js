@@ -1,5 +1,6 @@
 import blog01 from '../../public/images/blog/01.jpg';
 import blog02 from '../../public/images/blog/02.jpg';
+import blog03 from '../../public/images/blog/03.jpg';
 import blog04 from '../../public/images/blog/04.jpg';
 import blog05 from '../../public/images/blog/05.jpg';
 import blog06 from '../../public/images/blog/06.jpg';
@@ -48,7 +49,7 @@ const blogList = [
   },
   {
     id: 3,
-    imgUrl: '', // This entry has no image
+    imgUrl: blog03, // This entry has no image
     imgAlt: 'Blog Thumb',
     title: 'Consulting Reporting Qounc Arei Could More.',
     desc: 'Pluoresnts customize prancing apcentered customer service anding ands asing straelg Interacvely cordinate performe',
