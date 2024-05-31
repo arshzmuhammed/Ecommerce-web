@@ -8,12 +8,12 @@ import 'swiper/css/pagination';
 import { Autoplay } from 'swiper/modules';
 
 // Import images
-import sponsor01 from '/src/assets/images/sponsor/01.png';
-import sponsor02 from '/src/assets/images/sponsor/02.png';
-import sponsor03 from '/src/assets/images/sponsor/03.png';
-import sponsor04 from '/src/assets/images/sponsor/04.png';
-import sponsor05 from '/src/assets/images/sponsor/05.png';
-import sponsor06 from '/src/assets/images/sponsor/06.png';
+import sponsor01 from '../../public/images/sponsor/01.png';
+import sponsor02 from '../../public/images/sponsor/02.png';
+import sponsor03 from '../../public/images/sponsor/03.png';
+import sponsor04 from '../../public/images/sponsor/04.png';
+import sponsor05 from '../../public/images/sponsor/05.png';
+import sponsor06 from '../../public/images/sponsor/06.png';
 
 const sponsorList = [
   {
