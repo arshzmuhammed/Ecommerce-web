@@ -6,7 +6,7 @@ const subTitle = "About Our Brand"; const title = "Good Qualification Services A
 
 const year = "30+"; const expareance = "Years Of Experiences";
 
-const aboutList = [ { imgUrl: '/src/assets/images/about/icon/01.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Skilled Instructors', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, { imgUrl: '/src/assets/images/about/icon/02.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Get Certificate', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, { imgUrl: '/src/assets/images/about/icon/03.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Online Classes', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, ]
+const aboutList = [ { imgUrl: '../../public/images/about/icon/01.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Skilled Instructors', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, { imgUrl: '/src/assets/images/about/icon/02.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Get Certificate', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, { imgUrl: '/src/assets/images/about/icon/03.jpg', imgAlt: 'about icon rajibraj91 rajibraj', title: 'Online Classes', desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services', }, ]
 const About = () => {
   return (
     <div>
@@ -17,10 +17,10 @@ const About = () => {
                 <div className="col">
                     <div className="about-left">
                         <div className="about-thumb">
-                            <img src="/src/assets/images/about/01.jpg" alt="" />
+                            <img src="../../public/images/about/01.jpg" alt="" />
                         </div>
                         <div className="abs-thumb">
-                            <img src="/src/assets/images/about/02.jpg" alt="" />
+                            <img src="../../public/images/about/02.jpg" alt="" />
                         </div>
                         <div className="about-left-content">
                             <h3>{year}</h3>
