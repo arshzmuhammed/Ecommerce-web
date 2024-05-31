@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import clientAvatar from '../../public/images/clients/avater.jpg';
+import clientAvatar from '../assets/images/clients/avater.jpg';
 
 const title = "More Than 60,000 Customers";
 const desc = "Buy products on your any device with our app & enjoy your time what you want. Just download & install & start to shopping";
