@@ -81,7 +81,7 @@
             .col {
                 .category-item {
                     .category-inner {
-                        background: url(../../public/images/category/bg/01.jpg) no-repeat;
+                        background: url(../../../../public/images/category/bg/01.jpg) no-repeat;
                         background-size: cover !important;
                         .category-thumb {
                             margin-top: 60px;
@@ -97,49 +97,49 @@
                 &:nth-of-type(8n + 2) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/02.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/02.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 3) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/03.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/03.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 4) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/04.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/04.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 5) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/05.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/05.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 6) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/06.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/06.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 7) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/07.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/07.jpg) no-repeat;
                         }
                     }
                 }
                 &:nth-of-type(8n + 8) {
                     .category-item {
                         .category-inner {
-                            background: url(../../public/images/category/bg/08.jpg) no-repeat;
+                            background: url(../../../../public/images/category/bg/08.jpg) no-repeat;
                         }
                     }
                 }
@@ -2088,7 +2088,7 @@
 
 // register-section
 .register-section {
-    background: url(../../assets/images/bg-img/07.jpg) no-repeat;
+    background: url(../../../../public/images/bg-img/07.jpg) no-repeat;
     background-position: center;
     background-size:  cover;
     .section-header {
@@ -2235,7 +2235,7 @@
         top: 60%;
         width: 85%;
         height: 60%;
-        background-image: url(../../assets/images/shape-img/10.png);
+        background-image: url(../../../../public/images/shape-img/10.png);
         background-repeat: no-repeat;
         transform: translateY(-50%);
         background-size: 70%;
@@ -2280,7 +2280,7 @@
 
 // achievement-section
 .achievement-section {
-    background: url(../../assets/images/shape-img/02.png) no-repeat;
+    background: url(../../../../public/images/shape-img/02.png) no-repeat;
     background-position: center;
     .section-header {
         margin-bottom: 30px;
@@ -2314,7 +2314,7 @@
     &.style-3 {
         background: $ash-color;
         @include breakpoint(lg) {
-            background: url(../../assets/images/shape-img/05.png) no-repeat;
+            background: url(../../../../public/images/shape-img/05.png) no-repeat;
             background-size: 100% 100%;
             background-position: center;
         }

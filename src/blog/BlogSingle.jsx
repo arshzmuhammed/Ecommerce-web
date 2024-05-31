@@ -56,11 +56,11 @@ const BlogSingle = () => {
                                                                         </cite>
                                                                     </blockquote>
                                                                     <p></p>
-                                                                    <img src="/src/assets/images/blog/single/01.jpg" alt="" />
+                                                                    <img src="../../../../public/images/blog/single/01.jpg" alt="" />
                                                                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro consequatur atque fuga enim. Itaque incidunt aut explicabo vitae consequatur vel alias nostrum quam, quia nemo tempora, sequi quisquam, corrupti omnis maiores unde deserunt soluta amet laborum voluptate! Molestias blanditiis eaque vitae commodi nulla ullam soluta numquam totam aliquid! Facilis adipisci molestiae modi illo suscipit eligendi ab odit quos repellendus voluptate, quaerat, dolor quis excepturi corrupti ipsum similique praesentium doloremque soluta quas distinctio eius earum hic nam architecto. In, quis voluptatum.</p>
 
                                                                     <div className="video-thumb">
-                                                                        <img src="/src/assets/images/blog/single/02.jpg" alt="" />
+                                                                        <img src="../../../../public/images/blog/single/02.jpg" alt="" />
                                                                         <a href="" className='video-button popup'>
                                                                             <i className="icofont-ui-play"></i>
                                                                         </a>

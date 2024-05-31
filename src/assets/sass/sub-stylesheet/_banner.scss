@@ -1,6 +1,6 @@
 /* @@@@@@@@@@@@@  Banner Section Start Here  @@@@@@@@@@@@@@ */
 .banner-section {
-    background-image: url(../images/bg-img/01.jpg);
+    background-image: url(../../../../public/images/bg-img/01.jpg);
     background-size: cover;
     padding-top: 170px;
     @extend %rel;
@@ -265,7 +265,7 @@
         }
     }
     &.style-2 {
-        background-image: url(../images/bg-img/02.jpg);
+        background-image: url(../../../../public/images/bg-img/02.jpg);
         padding-top: 175px;
         @extend %rel;
         &::before {
@@ -299,7 +299,7 @@
         }
     }
     &.style-3 {
-        background-image: url(../images/bg-img/03.jpg);
+        background-image: url(../../../../public/images/bg-img/03.jpg);
         background-position: left;
         padding: 170px 0;
         margin-top: 98px;
@@ -315,7 +315,7 @@
         }
     }
     &.style-4 {
-        background-image: url(../../public/images/bg-img/06.jpg);
+        background-image: url(../../../../public/images/bg-img/06.jpg);
         @extend %rel;
         z-index: 1;
         padding-bottom: 100px;
@@ -417,7 +417,7 @@
         }
     }
     &.style-5 {
-        background-image: url(../images/bg-img/08.jpg);
+        background-image: url(../../../../public/images/bg-img/08.jpg);
         background-position: center;
         background-attachment: fixed;
         padding: 260px 0 200px;
@@ -479,7 +479,7 @@
         }
     }
     &.style-6 {
-        background-image: url(../images/bg-img/09.jpg);
+        background-image: url(../../../../public/images/bg-img/09.jpg);
         background-position: center;
         background-attachment: fixed;
         padding: 286px 0 200px;
@@ -505,7 +505,7 @@
         }
     }
     &.style-7 {
-        background-image: url(../images/bg-img/14.jpg);
+        background-image: url(../../../../public/images/bg-img/14.jpg);
         background-size: cover;
         background-position: right;
         margin-top: 98px;
@@ -561,7 +561,7 @@
 /* @@@@@@@@@@@@@  Page Header Section Start Here  @@@@@@@@@@@@@@ */
 .pageheader-section {
     padding: 250px 0 100px;
-    background-image: url(../images/pageheader/bg/01.jpg);
+    background-image: url(../../../../public/images/pageheader/bg/01.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -573,7 +573,7 @@
     &.style-2 {
         @extend %p-0;
         padding-top: 250px;
-        background-image: url(../images/pageheader/bg/02.jpg);
+        background-image: url(../../../../public/images/pageheader/bg/02.jpg);
         @include breakpoint(max-lg) {
             padding-bottom: 60px;
             padding-top: 150px;
