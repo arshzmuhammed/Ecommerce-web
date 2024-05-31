@@ -15,7 +15,7 @@ const title = (
     },
     {
     iconName: "icofont-notification",
-    text: "More then 2000 Marchent",
+    text: "More than 2000 Marchent",
     },
     {
     iconName: "icofont-globe",
